@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am exploring Github and trying to understand how it works and how can I use it.
+Actually I know nothing.
+
 <!--
 **kerimyzc/kerimyzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
